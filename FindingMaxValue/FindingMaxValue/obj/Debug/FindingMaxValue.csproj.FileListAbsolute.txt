@@ -1,0 +1,12 @@
+D:\Projects\StartPrj\FindingMaxValue\FindingMaxValue\bin\Debug\FindingMaxValue.exe.config
+D:\Projects\StartPrj\FindingMaxValue\FindingMaxValue\bin\Debug\FindingMaxValue.exe
+D:\Projects\StartPrj\FindingMaxValue\FindingMaxValue\bin\Debug\FindingMaxValue.pdb
+D:\Projects\StartPrj\FindingMaxValue\FindingMaxValue\obj\Debug\FindingMaxValue.csprojResolveAssemblyReference.cache
+D:\Projects\StartPrj\FindingMaxValue\FindingMaxValue\obj\Debug\FindingMaxValue.exe
+D:\Projects\StartPrj\FindingMaxValue\FindingMaxValue\obj\Debug\FindingMaxValue.pdb
+C:\Users\lh.Lenovo-PC\Desktop\mindwave\FindingMaxValue\FindingMaxValue\bin\Debug\FindingMaxValue.exe.config
+C:\Users\lh.Lenovo-PC\Desktop\mindwave\FindingMaxValue\FindingMaxValue\obj\Debug\FindingMaxValue.exe
+C:\Users\lh.Lenovo-PC\Desktop\mindwave\FindingMaxValue\FindingMaxValue\obj\Debug\FindingMaxValue.pdb
+C:\Users\lh.Lenovo-PC\Desktop\mindwave\FindingMaxValue\FindingMaxValue\bin\Debug\FindingMaxValue.exe
+C:\Users\lh.Lenovo-PC\Desktop\mindwave\FindingMaxValue\FindingMaxValue\bin\Debug\FindingMaxValue.pdb
+C:\Users\lh.Lenovo-PC\Desktop\mindwave\FindingMaxValue\FindingMaxValue\obj\Debug\FindingMaxValue.csprojResolveAssemblyReference.cache
